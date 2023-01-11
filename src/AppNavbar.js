@@ -16,7 +16,10 @@ const AppNavbar = () => {
                         <NavLink href="https://twitter.com/vancefm">@vancefm</NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink target="_blank" href="https://github.com/vancefm/ticket-stack">GitHub</NavLink>
+                        <NavLink target="_blank" href="https://github.com/vancefm">GitHub</NavLink>
+                    </NavItem>
+                    <NavItem>
+                        <NavLink target="_blank" href="http://localhost:8080/swagger-ui/index.html">Swagger Docs</NavLink>
                     </NavItem>
                 </Nav>
             </Collapse>
